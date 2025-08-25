@@ -28,6 +28,7 @@ Students complete the required Module 1 plus any two of the three remaining modu
 ## Current Materials
 
 ### Fall 2025 Syllabus
+- **📖 Current Syllabus**: [https://gmu-psyc325f2025.netlify.app/](https://gmu-psyc325f2025.netlify.app/)
 - **Quarto Source**: [psyc325_syllabus.qmd](psyc325_syllabus.qmd)
 - **HTML Version**: [psyc325_syllabus.html](psyc325_syllabus.html) 
 - **Markdown Version**: [PSYC325_syllabus_fall2025.md](PSYC325_syllabus_fall2025.md)
