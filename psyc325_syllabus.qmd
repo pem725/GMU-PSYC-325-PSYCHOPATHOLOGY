@@ -160,10 +160,10 @@ Below is a tentative schedule meaning that we are likely to change things as wea
 |------|-----|-------|-------------------|
 | **8/27** | Tue | Introduction & Course Guidelines | Read syllabus (THIS DOCUMENT) |
 | **8/29** | Thu | Defining Pathology and Disorder | [History of Mental Illness \| Noba](http://nobaproject.com/modules/history-of-mental-illness) |
-| **9/3** | Tue | Understanding Causes and Maintenance | [Gross & Jazaieri (2014)](https://drive.google.com/file/d/1XiQ9Wkf_6PlxJyOp7M6X1p-ZK83f7iuZ/view?usp=sharing) |
-| **9/5** | Thu | Cultural and Sociodemographic Factors | [Culture and Emotion \| Noba](http://nobaproject.com/modules/culture-and-emotion) |
-| **9/10** | Tue | 🎬 **MOVIE: Girl, Interrupted** | Review all Module 1 readings |
-| **9/12** | Thu | Discussion: Movie & Module 1 Material | |
+| **9/3** | Tue | 🎬 **Girl, Interrupted Part 1** (65 min) | [Gross & Jazaieri (2014)](https://drive.google.com/file/d/1XiQ9Wkf_6PlxJyOp7M6X1p-ZK83f7iuZ/view?usp=sharing) |
+| **9/5** | Thu | Understanding Causes and Maintenance | [Culture and Emotion \| Noba](http://nobaproject.com/modules/culture-and-emotion) |
+| **9/10** | Tue | 🎬 **Girl, Interrupted Part 2** (62 min) | Review all Module 1 readings |
+| **9/12** | Thu | Discussion: Movie & Cultural Factors | |
 | **9/17** | Tue | 📝 **EXAM 1 (Mandatory)** *+ 30 min movie preview* | |
 
 ### MODULE 2: Depressive Disorders
@@ -171,10 +171,10 @@ Below is a tentative schedule meaning that we are likely to change things as wea
 | Date | Day | Topic | Reading Assignment |
 |------|-----|-------|-------------------|
 | **9/19** | Thu | Depressive Disorders I | [Mood Disorders \| Noba](http://nobaproject.com/modules/mood-disorders) |
-| **9/24** | Tue | 🎬 **MOVIE: The Soloist** | [Rottenberg (2005)](https://drive.google.com/file/d/1iKKvKatbYkP5sBBEln0vmCKPnQc79Ecw/view?usp=sharing) |
-| **9/26** | Thu | Discussion: Movie & Depressive Disorders | Review all Module 2 readings |
-| **10/1** | Tue | Depressive Disorders II & Review | |
-| **10/3** | Thu | 📝 **EXAM 2** *+ 30 min movie preview* | |
+| **9/24** | Tue | 🎬 **The Soloist Part 1** (65 min) | [Rottenberg (2005)](https://drive.google.com/file/d/1iKKvKatbYkP5sBBEln0vmCKPnQc79Ecw/view?usp=sharing) |
+| **9/26** | Thu | Depressive Disorders II | Review all Module 2 readings |
+| **10/1** | Tue | 🎬 **The Soloist Part 2** (51 min) | |
+| **10/3** | Thu | Discussion: Movie & Module Review + **EXAM 2** *+ 30 min movie preview* | |
 
 ### MODULE 3: Anxiety Disorders
 
@@ -182,10 +182,10 @@ Below is a tentative schedule meaning that we are likely to change things as wea
 |------|-----|-------|-------------------|
 | **10/8** | Tue | Panic Disorder | [Anxiety and Related Disorders \| Noba](http://nobaproject.com/modules/anxiety-and-related-disorders) |
 | **10/10** | Thu | Generalized Anxiety Disorder | [Behar et al. (2009)](https://drive.google.com/file/d/12BTLswNQCsWd1aXhQYiZBqahBOIQ0SfD/view?usp=sharing) |
-| **10/15** | Tue | 🎬 **MOVIE: Reign Over Me** | [Social Anxiety \| Noba](http://nobaproject.com/modules/social-anxiety) |
-| **10/17** | Thu | Discussion: Movie & PTSD | [McNally (2003)](https://drive.google.com/file/d/1IJ8MXKPwrI68j32IRRruFDe1alDtvdn-/view?usp=sharing) |
-| **10/22** | Tue | Social Anxiety & Review | Review all Module 3 readings |
-| **10/24** | Thu | 📝 **EXAM 3** *+ 30 min movie preview* | |
+| **10/15** | Tue | 🎬 **Reign Over Me Part 1** (65 min) | [Social Anxiety \| Noba](http://nobaproject.com/modules/social-anxiety) |
+| **10/17** | Thu | Social Anxiety Disorder | [McNally (2003)](https://drive.google.com/file/d/1IJ8MXKPwrI68j32IRRruFDe1alDtvdn-/view?usp=sharing) |
+| **10/22** | Tue | 🎬 **Reign Over Me Part 2** (59 min) | Review all Module 3 readings |
+| **10/24** | Thu | Discussion: Movie & PTSD + **EXAM 3** *+ 30 min movie preview* | |
 
 ### MODULE 4: Personality, Substance Use, and Other Disorders
 
@@ -193,16 +193,16 @@ Below is a tentative schedule meaning that we are likely to change things as wea
 |------|-----|-------|-------------------|
 | **10/29** | Tue | OCD & Specific Phobias | [ADHD and Behavior Disorders \| Noba](http://nobaproject.com/modules/adhd-and-behavior-disorders-in-children) |
 | **10/31** | Thu | ADHD & Bipolar Disorder | [Gruber (2011)](https://drive.google.com/file/d/1QAMxdBMzCwQ6RDSsjX5epVY31JaaWiAY/view?usp=sharing) |
-| **11/5** | Tue | 🎬 **MOVIE: Repulsion** | [Dissociative Disorders \| Noba](http://nobaproject.com/modules/dissociative-disorders) |
-| **11/7** | Thu | Discussion: Movie & Dissociative Disorders | [Schizophrenia Spectrum \| Noba](http://nobaproject.com/modules/schizophrenia-spectrum-disorders) |
-| **11/12** | Tue | 🇺🇸 **Veterans Day Observed** - Schizophrenia | [Personality Disorders \| Noba](http://nobaproject.com/modules/personality-disorders?r=LDE0OTk2) |
-| **11/14** | Thu | Personality Disorders | [Psychopathy \| Noba](http://nobaproject.com/modules/psychopathy) |
-| **11/19** | Tue | 🎬 **MOVIE: The Basketball Diaries** | [Alcohol Disorders](https://drive.google.com/file/d/1nLMC9H7KHA1QNXyxLAzS-2OaP4m6BLTx/view?usp=sharing) |
-| **11/21** | Thu | Discussion: Movie & Substance Use | Review all Module 4 readings |
+| **11/5** | Tue | 🎬 **Repulsion Part 1** (65 min) | [Dissociative Disorders \| Noba](http://nobaproject.com/modules/dissociative-disorders) |
+| **11/7** | Thu | Dissociative Disorders | [Schizophrenia Spectrum \| Noba](http://nobaproject.com/modules/schizophrenia-spectrum-disorders) |
+| **11/12** | Tue | 🎬 **Repulsion Part 2** (40 min) | [Personality Disorders \| Noba](http://nobaproject.com/modules/personality-disorders?r=LDE0OTk2) |
+| **11/14** | Thu | Discussion: Repulsion & Schizophrenia | [Psychopathy \| Noba](http://nobaproject.com/modules/psychopathy) |
+| **11/19** | Tue | 🎬 **Basketball Diaries Part 1** (65 min) | [Alcohol Disorders](https://drive.google.com/file/d/1nLMC9H7KHA1QNXyxLAzS-2OaP4m6BLTx/view?usp=sharing) |
+| **11/21** | Thu | Personality Disorders | Review all Module 4 readings |
 | **11/26** | Tue | **THANKSGIVING WEEK - NO CLASS** | |
 | **11/28** | Thu | **THANKSGIVING - NO CLASS** | |
-| **12/3** | Tue | Module 4 Review & Synthesis | |
-| **12/5** | Thu | Course Wrap-up & Final Review | |
+| **12/3** | Tue | 🎬 **Basketball Diaries Part 2** (37 min) | |
+| **12/5** | Thu | Discussion: Movies & Substance Use + Final Review | |
 | **Final Exam (12/11 @ 7:30a)** | Wed | 📝 **EXAM 4 (Optional)** *+ 30 min movie viewing* | |
 
 ---
