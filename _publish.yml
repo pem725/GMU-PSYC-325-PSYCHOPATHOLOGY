@@ -1,0 +1,4 @@
+- source: psyc325_syllabus.qmd
+  netlify:
+    - id: f8c43709-88af-467c-a707-818e8c955027
+      url: https://comforting-sawine-90bb1c.netlify.app
