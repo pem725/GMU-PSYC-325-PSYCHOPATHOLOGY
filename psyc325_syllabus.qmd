@@ -75,7 +75,7 @@ The course consists of four (4) modules - one required module and three "optiona
 
 I use three pieces of evidence to assign your final grade: attendance, exam performance, and attending to instructions.
 
-### Attendance (50 pts) {#attendance}
+### Attendance (60 pts) {#attendance}
 
 ::: {.callout-note icon="false"}
 ## "Showing up is 80 percent of life" – [Woody Allen](https://quoteinvestigator.com/2013/06/10/showing-up/)
@@ -83,7 +83,7 @@ I use three pieces of evidence to assign your final grade: attendance, exam perf
 
 You will learn more from me and your classmates in person than by any other means. Consistent with Woody Allen's perspective, I plan to take attendance. How? Every session we meet, at about 15 minutes into the class, I will take a photograph of all those present and, counted as in attendance. These AI tools now allow me to take attendance each day. I do this to ensure that everyone commits to showing up every week, every day, and every minute the course is in session. I give you all ample leniency with respect to showing up ON TIME. I ask you, please be sitting and ready to participate **NO LATER THAN 5 MINUTES AFTER 9AM (i.e., 9:05AM)**. Some students have gotten into the very bad habit of showing up (yes!!!) but showing up 30 minutes after the class started (boo!!). So, show up, show up on time, and, if you can muster it, show up early. I am often in the classroom with plenty of time to chat.
 
-### Exams (40 pts) {#exams}
+### Exams (30 pts) {#exams}
 
 There will be four (4) exams with the best three (3) used to compute your grade. Each exam assesses your understanding of material presented in the lectures and the assigned readings for each module. **Exam 1 is mandatory for all students.** After Exam 1, you need only take two additional exams from Exams 2, 3, or 4 to complete the course requirements. **Exam 4 will be offered during the final exam period for those who wish to take it.** Students satisfied with their performance after the first three exams may skip Exam 4. 
 
@@ -97,7 +97,7 @@ I make announcements routinely throughout the semester and remind students frequ
 
 ## Final Grades
 
-Your grade will be determined by your attendance (50 pts), the average of your **3 highest exam scores** (40 pts) and you **following instructions** (10 pts). If I ask the class to please follow directions (e.g., read the syllabus, listen to announcements, and such) then you know that failure to do so eliminates 10% of your final grade. Egregious offenses need not apply for any leniency. Please follow directions. I refuse to give any student an A who fails to follow simple directions - especially after being prompted to follow directions. Yes, refuse.
+Your grade will be determined by your attendance (60 pts), the average of your **3 highest exam scores** (30 pts) and you **following instructions** (10 pts). If I ask the class to please follow directions (e.g., read the syllabus, listen to announcements, and such) then you know that failure to do so eliminates 10% of your final grade. Egregious offenses need not apply for any leniency. Please follow directions. I refuse to give any student an A who fails to follow simple directions - especially after being prompted to follow directions. Yes, refuse.
 
 ### Grading Scale
 
@@ -107,13 +107,13 @@ Your grade will be determined by your attendance (50 pts), the average of your *
 
 ### Calculate Your Grade
 
-**TOTAL = Exam Average × 40 + (# of classes attended / 26) × 50 + (did you listen: Yes = 1, No = 0) × 10**
+**TOTAL = Exam Average × 30 + (# of classes attended / 26) × 60 + (did you listen: Yes = 1, No = 0) × 10**
 
 ::: {.callout-tip}
 ## Example Calculation
 Suppose you average 70% on 3 of the 4 exams, attended all but two classes (24 out of 26) or 92.3% of the classes, and you listened (thank you). Based upon those numbers, your TOTAL is…
 
-**TOTAL** = 70% of 40 (pts) + 92.3% of 50 (pts) + 100% of 10 (pts) = 28 + 46.15 + 10 = 84.15 (**B**)
+**TOTAL** = 70% of 30 (pts) + 92.3% of 60 (pts) + 100% of 10 (pts) = 21 + 55.38 + 10 = 86.38 (**B**)
 
 Expect a **"B"** for the course. Note, you only averaged about a "C" on the exams but by showing up and listening, you got the benefit of the doubt and scored a better grade. Ain't that cool?
 :::
@@ -122,11 +122,11 @@ Expect a **"B"** for the course. Note, you only averaged about a "C" on the exam
 
 1. You cannot pass the course (Grade > F) without attending AT LEAST 5 lectures provided you have 100% on the exams and you listen.
 2. Attendance offsets your poor performance on exams. If you fail the exams or perform poorly, your grade will suffer in most classes but not as much in this class. Consider a simple example:
-   - 50% Exam Average (20 pts)
-   - 100% Attendance (50 pts)
+   - 50% Exam Average (15 pts)
+   - 100% Attendance (60 pts)
    - You listened (10 pts)
-   - FINAL GRADE: 20 + 50 + 10 = 80 (**B-**)
-3. You must average at least 50% on the exams to earn a B grade - remember that point when I send out the grades on the exams. To be clear, you only need to score an average of 50% on the exams provided you attend all the classes, listen, and only care about getting a low B or B-.
+   - FINAL GRADE: 15 + 60 + 10 = 85 (**B**)
+3. You must average at least 50% on the exams to earn a B grade - remember that point when I send out the grades on the exams. To be clear, you only need to score an average of 50% on the exams provided you attend all the classes, listen, and only care about getting a low B or higher.
 
 ## Important Dates
 
