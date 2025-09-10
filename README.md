@@ -36,6 +36,11 @@ Students complete the required Module 1 plus any two of the three remaining modu
 ### Free Textbook
 [Complete Noba Project Textbook](http://noba.to/zfm82qsj) - All course readings are available at no cost.
 
+## Educational Resources
+
+### Film Analysis: Using Media to Understand Psychopathology
+- **[Girl, Interrupted Analysis](girl_interrupted_analysis.md)** - A comprehensive exploration of how the 1999 film demonstrates key psychopathology concepts and serves as an educational tool for understanding mental health disorders
+
 ## Previous Syllabi
 
 *Previous semester syllabi will be archived here as they become available.*
